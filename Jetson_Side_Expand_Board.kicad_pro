@@ -112,7 +112,7 @@
         "max_error": 0.005,
         "min_clearance": 0.0,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.5,
+        "min_copper_edge_clearance": 0.1,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
@@ -578,6 +578,10 @@
     [
       "0a00b7c8-36c5-4914-a53d-0968af9714dd",
       "ルート"
+    ],
+    [
+      "964c6b70-a63b-482a-829a-7e625f81d2b7",
+      "DCDC5V"
     ]
   ],
   "text_variables": {}
