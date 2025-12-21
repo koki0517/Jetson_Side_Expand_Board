@@ -1,3 +1,4 @@
 (sym_lib_table
   (version 7)
+  (lib (name "MAPU01-033S05H")(type "KiCad")(uri "${KIPRJMOD}/MAPU01-033S05H/MAPU01-033S05H.kicad_sym")(options "")(descr ""))
 )

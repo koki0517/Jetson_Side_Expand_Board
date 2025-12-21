@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAPU01-033S05H
+D The MAPU01H series is a new range of isolated 1W DC-DC converter modules in SIP-7 package which feature a high I/O isolation voltage rated for 3000VDC . Advanced circuit topology provides continuous overload, short circuit protection and a high efficiency up to 84% which allows operating ambient temperatures range of -40 to +85 without power derating.
+K
+F https://www.minmaxpower.com/storage/media/Product-MINMAX/MAPU01H/Document/MAPU01H_Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
